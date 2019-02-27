@@ -12,7 +12,7 @@ A sample template structure for my development projects.
 
 ## Instructions:
 
-1. Edit the **package.json** file 'project name', 'description' and 'keywords'. Add git repository in 3 places or delete those parts. Uncomment the git references.
+1. Edit the **package.json** file 'project name' **MUST BE THE SAME AS THE PROJECT FOLDER NAME IT IS IN**, 'description' and 'keywords'. Add git repository in 3 places or delete those parts.
 
 2. Either use this folder as the base folder for the project or copy the 4 files into the actual project folder.
 
