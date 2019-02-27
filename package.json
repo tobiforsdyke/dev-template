@@ -1,0 +1,29 @@
+{
+  "name": "PROJECT_NAME",
+  "version": "1.0.0",
+  "description": "PROJECT_DESCRIPTION",
+  "main": "index.php",
+  /* "repository": {
+    "type": "git",
+    "url": "git+GIT_URL_HERE"
+  }, */
+  "keywords": [
+    "wordpress",
+    "grunt",
+    "sass",
+    "git"
+  ],
+  "author": "Tobi Forsdyke",
+  "license": "ISC",
+  /* "bugs": {
+    "url": "GIT_URL/issues"
+  },
+  "homepage": "GIT_URL#readme", */
+  "devDependencies": {
+    "autoprefixer": "^9.4.9",
+    "grunt": "^1.0.3",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-postcss": "^0.9.0"
+  }
+}
