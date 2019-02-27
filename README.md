@@ -1,6 +1,6 @@
 # My Development Template
 
-A sample template structure for my development projects
+A sample template structure for my development projects.
 
 ## Contains:
 
@@ -20,7 +20,7 @@ A sample template structure for my development projects
 ```
 npm install
 ```
-This will install the dependencies that are listed in the package.json file and create the node_modules folder.
+*This will install the dependencies that are listed in the package.json file and create the node_modules folder.*
 
 4. Edit the **Gruntfile.js** file in 3 places under files and src to specify the correct locations and filename of the .scss and .css files to watch/convert.
 
